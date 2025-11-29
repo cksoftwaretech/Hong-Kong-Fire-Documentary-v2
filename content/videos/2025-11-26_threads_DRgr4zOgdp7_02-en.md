@@ -4,6 +4,7 @@
 
 - **File Name**: `2025-11-26_threads_DRgr4zOgdp7_02.mp4`
 - **Title**: Close-up of building exterior burning
+- **Video Link**: [2025-11-26_threads_DRgr4zOgdp7_02.mp4](2025-11-26_threads_DRgr4zOgdp7_02.mp4)
 
 ## Source Information
 

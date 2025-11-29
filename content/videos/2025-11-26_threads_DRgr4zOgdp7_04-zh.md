@@ -4,6 +4,7 @@
 
 - **檔案名稱**: `2025-11-26_threads_DRgr4zOgdp7_04.mp4`
 - **標題**: 較遠距離拍攝，煙霧瀰漫
+- **影片連結**: [2025-11-26_threads_DRgr4zOgdp7_04.mp4](2025-11-26_threads_DRgr4zOgdp7_04.mp4)
 
 ## 來源資料
 

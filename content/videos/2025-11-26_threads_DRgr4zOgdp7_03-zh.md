@@ -4,6 +4,7 @@
 
 - **檔案名稱**: `2025-11-26_threads_DRgr4zOgdp7_03.mp4`
 - **標題**: 建築物垂直區域大範圍燃燒
+- **影片連結**: [2025-11-26_threads_DRgr4zOgdp7_03.mp4](2025-11-26_threads_DRgr4zOgdp7_03.mp4)
 
 ## 來源資料
 

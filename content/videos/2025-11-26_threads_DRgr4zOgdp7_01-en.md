@@ -4,6 +4,7 @@
 
 - **File Name**: `2025-11-26_threads_DRgr4zOgdp7_01.mp4`
 - **Title**: Ground-level shot showing fire spreading upward from lower floors
+- **Video Link**: [2025-11-26_threads_DRgr4zOgdp7_01.mp4](2025-11-26_threads_DRgr4zOgdp7_01.mp4)
 
 ## Source Information
 

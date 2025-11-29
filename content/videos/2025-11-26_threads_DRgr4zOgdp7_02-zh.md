@@ -4,6 +4,7 @@
 
 - **檔案名稱**: `2025-11-26_threads_DRgr4zOgdp7_02.mp4`
 - **標題**: 近距離拍攝建築物外牆燃燒情況
+- **影片連結**: [2025-11-26_threads_DRgr4zOgdp7_02.mp4](2025-11-26_threads_DRgr4zOgdp7_02.mp4)
 
 ## 來源資料
 
