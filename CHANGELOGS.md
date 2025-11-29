@@ -1,8 +1,10 @@
 # Changelog
 
 ## heilcheng
+
 自動化修復整個倉庫的 Markdown Lint 問題。
 Automated markdown linting fixes throughout the repository.
+
 - (2025-11-29 08:54:40) [a9d6b21] style: auto-fix markdown lint issues
 - (2025-11-29 08:39:09) [0d1793e] style: auto-fix markdown lint issues
 - (2025-11-29 07:39:53) [2b891d2] style: auto-fix markdown lint issues
@@ -15,8 +17,10 @@ Automated markdown linting fixes throughout the repository.
 - (2025-11-29 06:15:26) [5fa2861] style: auto-fix markdown lint issues
 
 ## @halx
+
 倉庫維護：合併 PR、整理檔案與更新文件。
 Repository maintenance, merging pull requests, file organization, and documentation updates.
+
 - (2025-11-29 16:54:27) [c9b6fd9] Merge pull request #28 from cswbrian/fix-video-landing
 - (2025-11-29 16:38:57) [6b4faa6] Merge pull request #26 from cswbrian/organize-video-documentation
 - (2025-11-29 15:39:43) [77edd06] Merge pull request #25 from cswbrian/update-readme-docs
@@ -51,8 +55,10 @@ Repository maintenance, merging pull requests, file organization, and documentat
 - (2025-11-28 23:49:07) [a8ac247] Update README with content structure sections
 
 ## Brian Leung
+
 新增全面影片紀錄、收集指南與會議記錄雜湊資料。
 Added comprehensive video documentation, collection guides, and meeting minutes metadata.
+
 - (2025-11-29 16:53:20) [58496b8] Add video links to metadata files for fire incident on 2025-11-26
 - (2025-11-29 16:48:47) [4a841b1] Add comprehensive video collection guide in English and Chinese
 - (2025-11-29 16:31:08) [80eff01] Add video footage and metadata for fire incident on 2025-11-26
@@ -62,9 +68,11 @@ Added comprehensive video documentation, collection guides, and meeting minutes 
 - (2025-11-29 15:11:49) [40d2a45] add original PDF links
 - (2025-11-29 15:03:17) [1a93aa1] Add document submission guidelines and metadata requirements in README files
 
-## Duo.
+## Duo
+
 導入 MkDocs 設定、多語系支援與文件架構。
 Implemented MkDocs configuration, multi-language support, and documentation structure.
+
 - (2025-11-29 15:37:26) [f0dae54] Fix locale: use zh-Hant instead of zh to ensure Traditional Chinese UI elements (e.g. Table of Contents)
 - (2025-11-29 15:23:20) [4085ca5] Update theme to modern monochrome grayscale
 - (2025-11-29 15:18:01) [57aea79] Add detailed README files for Docs section (zh/en)
@@ -81,32 +89,42 @@ Implemented MkDocs configuration, multi-language support, and documentation stru
 - (2025-11-28 23:54:00) [e07cb45] Add project folder structure with descriptions
 
 ## Duo
+
 整理內容並建立目錄索引。
 Content organization and index creation.
+
 - (2025-11-29 14:54:19) [a820793] Add content/README.md with directory index
 
 ## Abby
+
 新增社區支援資源並更新時間線。
 Added community support resources and timeline updates.
+
 - (2025-11-29 14:52:20) [a5a80aa] removed Release Date
 - (2025-11-29 14:30:00) [f0e047e] Add community support resources for fire incident
 
 ## EricChuDev
+
 新增多個來源的新聞條目並更新分析文件。
 Added news articles and analysis documentation from various sources.
+
 - (2025-11-29 14:23:27) [2421f7b] Add 星島日報 news
 - (2025-11-29 14:12:43) [bbd2dc1] Merge branch 'Hong-Kong-Emergency-Coordination-Hub:main' into main
 - (2025-11-29 14:12:14) [51efbb4] Update analysis and news README files with new safety research and event summaries
 - (2025-11-29 06:12:58) [9cb719e] style: auto-fix markdown lint issues
 
 ## Eric
+
 同步遠端分支。
 Branch synchronization.
+
 - (2025-11-29 14:24:08) [c5be6f1] Merge branch 'Hong-Kong-Emergency-Coordination-Hub:main' into main
 
 ## drCathieSo.eth
+
 建立 Markdown Lint 自動化流程。
 Set up markdown linting workflow and automation.
+
 - (2025-11-29 14:02:38) [dc57f74] fix: update checkout reference in markdown lint workflow for better compatibility
 - (2025-11-29 14:00:49) [308879c] Fix: add permissions for write access in markdown lint workflow
 - (2025-11-29 13:37:16) [dc53ed9] Fix: update markdown lint workflow to include error handling and ensure proper checkout
@@ -114,13 +132,17 @@ Set up markdown linting workflow and automation.
 - (2025-11-29 13:30:49) [68681f8] Add markdown linting workflow and configuration
 
 ## socathie
+
 修復 Markdown Lint 問題。
 Markdown linting fixes.
+
 - (2025-11-29 05:37:31) [e61f015] style: auto-fix markdown lint issues
 
 ## Duncan Law
+
 新增多個本地與國際新聞條目。
 Added news articles from multiple international and local sources.
+
 - (2025-11-29 05:12:03) [9d23f6e] 東方日報
 - (2025-11-29 03:50:55) [22366db] Japan Times
 - (2025-11-29 03:37:06) [b8ddc87] CNN
@@ -132,19 +154,25 @@ Added news articles from multiple international and local sources.
 - (2025-11-29 00:14:00) [4d7b991] Add files via upload
 
 ## admin
+
 更新 11 月 29 日事件時間線。
 Timeline updates with November 29 events.
+
 - (2025-11-29 10:52:44) [21270e2] add: Add Nov 29 events
 
 ## chris-moming4k
+
 新增並整理業主立案法團會議記錄。
 Added and organized meeting minutes documentation.
+
 - (2025-11-28 23:16:10) [48becff] Update meeting minutes title to specify Wang Fuk Court Owners' Corporation
 - (2025-11-28 23:13:19) [3f65ff8] Add README files for committee meeting minutes with indexed links
 - (2025-11-28 23:03:14) [d58656a] Extract PDF content to markdown files
 - (2025-11-28 21:09:00) [0041d05] Add meeting minutes PDFs and markdown placeholders from Issue #1
 
 ## cksoftware
+
 新增火災事件時間線。
 Added fire incident timeline.
+
 - (2025-11-29 06:27:06) [552c423] add fire-linear-timeline
