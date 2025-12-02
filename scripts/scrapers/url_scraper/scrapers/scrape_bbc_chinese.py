@@ -36,4 +36,4 @@ def scrape():
 
         results.append((date_str, title, link))
     
-    return ('BBC Chinese', results)
+    return ('BBC 中文', results)
